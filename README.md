@@ -1,6 +1,6 @@
 # Discrete Mathematics Coursework
 
-Code repository for Discrete Mathematics coursework. Originaly done as a part of Special Short Semester'13 [April 2019 - August 2019].
+Code repository for Discrete Mathematics coursework. Originally done as a part of Special Short Semester'13 [April 2019 - August 2019].
 
 Institute: [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)
 
